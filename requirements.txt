@@ -1,0 +1,4 @@
+tinytuya
+click
+logging
+configparser
